@@ -1,7 +1,5 @@
 # Linear Regression Assignment
 
-![Linear Regression](linear_regression_image.png)
-
 This repository contains files related to a linear regression assignment. The assignment involves implementing linear regression from scratch using Python and performing various tasks such as data cleaning, exploratory data analysis (EDA), correlation analysis, implementing the linear regression algorithm, and evaluating the model.
 
 ## Files Included:
@@ -16,11 +14,11 @@ This repository contains files related to a linear regression assignment. The as
 ## Usage:
 To use this repository, follow these steps:
 1. Clone the repository to your local machine:
-git clone https://github.com/gourav-rathi/implementing-linear-regression.git
-
+   <kbd>git clone https://github.com/gourav-rathi/implementing-linear-regression.git</kbd>
 
 2. Install the required dependencies using pip:
-pip install -r requirements.txt
+   <kbd>pip install -r requirements.txt</kbd>
+
 
 3. Open and run the Jupyter Notebook `Linear_Regression_Assignment.ipynb` to execute the linear regression tasks.
 
