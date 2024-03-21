@@ -15,17 +15,6 @@ This repository contains files related to a linear regression assignment. The as
 To use this repository, follow these steps:
 1. Clone the repository to your local machine:
    `git clone https://github.com/gourav-rathi/implementing-linear-regression.git`
-## Installation
-Just, Clone this repository -
-
-<div style="position:relative;">
-  <input type="text" value="git clone https://github.com/gourav-rathi/implementing-linear-regression.git" id="cloneCommand" style="width: 400px;" readonly>
-  <button onclick="copyToClipboard('cloneCommand')">
-    <img src="https://img.icons8.com/fluent/20/000000/copy.png"/>
-  </button>
-</div>
-
-Now go to cloned directory and run the necessary scripts.
 
 2. Install the required dependencies using pip:
    `pip install -r requirements.txt`
