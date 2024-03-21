@@ -14,18 +14,10 @@ This repository contains files related to a linear regression assignment. The as
 ## Usage:
 To use this repository, follow these steps:
 1. Clone the repository to your local machine:
-   <div style="position:relative;">
-     <input type="text" value="git clone https://github.com/gourav-rathi/implementing-linear-regression.git" id="cloneCommand" style="width: 300px;" readonly>
-     <button onclick="copyToClipboard('cloneCommand')">Copy</button>
-   </div>
+   `git clone https://github.com/gourav-rathi/implementing-linear-regression.git`
 
 2. Install the required dependencies using pip:
-   <div style="position:relative;">
-     <input type="text" value="pip install -r requirements.txt" id="installCommand" style="width: 200px;" readonly>
-     <button onclick="copyToClipboard('installCommand')">Copy</button>
-   </div>
-
-
+   `pip install -r requirements.txt`
 
 3. Open and run the Jupyter Notebook `Linear_Regression_Assignment.ipynb` to execute the linear regression tasks.
 
